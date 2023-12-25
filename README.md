@@ -1,8 +1,8 @@
 # neobis_
 ---
 Implementation of Neobis tasks
-
- # ![Java] (https://developers.redhat.com/sites/default/files/styles/share/public/ST-java1_2x.png?itok=LP1xR4KL)
+---
+![Java] (CHemu-programmisty-na-Java-dolzhny-nauchitsya-v-2021-godu)
 ---
 Study plan</br>
 Week 1</br>
