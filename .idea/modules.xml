@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaNeo.iml" filepath="$PROJECT_DIR$/javaNeo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neobis/neobis.iml" filepath="$PROJECT_DIR$/neobis/neobis.iml" />
     </modules>
   </component>
 </project>
