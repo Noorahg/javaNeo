@@ -2,7 +2,7 @@
 ---
 Implementation of Neobis tasks
 ---
-![Java] (CHemu-programmisty-na-Java-dolzhny-nauchitsya-v-2021-godu)
+![Java] (https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/800px-Java_logo.svg.png)
 ---
 Study plan</br>
 Week 1</br>
