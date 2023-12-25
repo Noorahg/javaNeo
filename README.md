@@ -2,7 +2,7 @@
 ---
 Implementation of Neobis tasks
 ---
-![Java] (https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/800px-Java_logo.svg.png)
+[Java] (https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/800px-Java_logo.svg.png)
 ---
 Study plan</br>
 Week 1</br>
