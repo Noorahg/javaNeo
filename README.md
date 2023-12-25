@@ -2,7 +2,7 @@
 ---
 Implementation of Neobis tasks
 
- # ![Java] https://developers.redhat.com/sites/default/files/styles/share/public/ST-java1_2x.png?itok=LP1xR4KL
+ # ![Java] (https://developers.redhat.com/sites/default/files/styles/share/public/ST-java1_2x.png?itok=LP1xR4KL)
 ---
 Study plan</br>
 Week 1</br>
